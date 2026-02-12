@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "title": "Audience Labs — Growth Agency for Kick & Twitch Streamers",
+    "description": "We distribute your best stream clips across TikTok and Instagram Reels through our clipper network — growing your audience with zero effort."
+  },
+  "nav": {
+    "links": [
+      { "label": "Services", "href": "#services" },
+      { "label": "How It Works", "href": "#how-it-works" },
+      { "label": "About Us", "href": "#founder" },
+      { "label": "FAQ", "href": "#faq" }
+    ],
+    "bookACall": "Book a Call"
+  },
+  "hero": {
+    "headingStart": "Grow Your Stream ",
+    "headingAccent": "Without Lifting a Finger",
+    "description": "We distribute your best stream clips across TikTok and Instagram Reels through our clipper network — growing your audience on autopilot.",
+    "ctaPrimary": "Book a Call",
+    "ctaSecondary": "See How It Works"
+  },
+  "trustBar": {
+    "heading": "Chosen by top brands around the world"
+  },
+  "impact": {
+    "badge": "Our Promise",
+    "heading": "What We Guarantee",
+    "description": "Data-driven clip distribution built on real organic growth — no bots, no fake engagement. We commit to full transparency, weekly performance reports, and a strategy tailored to your stream. If we don't deliver, you don't pay.",
+    "stats": [
+      { "value": "100%", "label": "Organic Growth", "emoji": "🌱" },
+      { "value": "$0", "label": "Upfront Cost", "emoji": "💰" }
+    ],
+    "dashboardTitle": "Clip Performance",
+    "dashboardStats": [
+      { "value": "2.4M", "label": "Total Views" },
+      { "value": "847", "label": "Clips Posted" },
+      { "value": "12.3K", "label": "New Followers" }
+    ],
+    "growthBadge": "+47% growth"
+  },
+  "services": {
+    "badge": "Services",
+    "heading": "How We Grow Your Audience",
+    "headingAccent": "How",
+    "subtitle": "End-to-end clip distribution and growth services built for streamers.",
+    "items": [
+      {
+        "label": "AUTOMATED CLIPPING",
+        "title": "Clip Distribution",
+        "description": "Our clipper network captures your best stream moments and distributes them across TikTok, Instagram Reels, and YouTube Shorts for maximum reach.",
+        "icon": "video"
+      },
+      {
+        "label": "CROSS-PLATFORM",
+        "title": "Campaign Management",
+        "description": "We plan, schedule, and optimize your clip campaigns across platforms — so every post hits the right audience at the right time.",
+        "icon": "share"
+      },
+      {
+        "label": "REAL-TIME DATA",
+        "title": "Growth Analytics",
+        "description": "Track your audience growth, clip performance, and platform metrics in real time with detailed reports and actionable insights.",
+        "icon": "chart"
+      },
+      {
+        "label": "ALGORITHM-FIRST",
+        "title": "Content Optimization",
+        "description": "Every clip is edited, captioned, and timed using strategies optimized for TikTok and Instagram algorithms to maximize reach and engagement.",
+        "icon": "sparkles"
+      },
+      {
+        "label": "EVERYWHERE AT ONCE",
+        "title": "Multi-Platform Reach",
+        "description": "Distribute your content simultaneously across TikTok, Instagram Reels, and YouTube Shorts from a single campaign.",
+        "icon": "globe"
+      },
+      {
+        "label": "STAY AHEAD",
+        "title": "Trend Detection",
+        "description": "Our team monitors trending sounds, formats, and hashtags to ensure your clips ride the wave of what's popular.",
+        "icon": "trending"
+      },
+      {
+        "label": "GROW YOUR TRIBE",
+        "title": "Community Building",
+        "description": "Build a loyal, engaged audience across platforms with consistent content that keeps viewers coming back.",
+        "icon": "users"
+      },
+      {
+        "label": "WEEKLY INSIGHTS",
+        "title": "Performance Reports",
+        "description": "Receive detailed weekly reports on clip performance, audience growth, and platform metrics with actionable recommendations.",
+        "icon": "file"
+      }
+    ]
+  },
+  "simplify": {
+    "badge": "3 SIMPLE STEPS",
+    "headingPrefix": "How Does ",
+    "headingAccent": "Labs",
+    "headingSuffix": " Work?",
+    "steps": [
+      {
+        "number": "01",
+        "title": "You Stream",
+        "description": "Keep doing what you love on Kick or Twitch. Just focus on your content — we take care of the rest.",
+        "icon": "video"
+      },
+      {
+        "number": "02",
+        "title": "We Clip & Distribute",
+        "description": "Our clipper network identifies your best moments and distributes them across TikTok and Instagram Reels.",
+        "icon": "scissors"
+      },
+      {
+        "number": "03",
+        "title": "Your Audience Grows",
+        "description": "Watch your followers multiply across platforms while you keep streaming — growth on complete autopilot.",
+        "icon": "trending-up"
+      }
+    ]
+  },
+  "whyChoose": {
+    "badge": "Our Edge",
+    "heading": "Why Choose Audience Labs",
+    "subtitle": "Built specifically for streamers who want real audience growth.",
+    "items": [
+      {
+        "title": "Performance-Based Model",
+        "description": "We only win when you win. Our pricing is tied to real results — views, followers, and engagement growth.",
+        "icon": "target"
+      },
+      {
+        "title": "Zero Effort Required",
+        "description": "Keep streaming as usual. Our clipper network handles everything from clipping to posting — you don't lift a finger.",
+        "icon": "hand"
+      },
+      {
+        "title": "Algorithm-Optimized Content",
+        "description": "Every clip is edited, captioned, and posted using strategies optimized for TikTok and Instagram algorithms.",
+        "icon": "sparkles"
+      },
+      {
+        "title": "Scalable Clipper Network",
+        "description": "Our distributed network of clippers scales with your stream, ensuring no viral moment goes uncaptured.",
+        "icon": "network"
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "heading": "What Streamers Are Saying",
+    "subtitle": "Don't just take our word for it — hear from streamers who've grown with us.",
+    "items": [
+      {
+        "quote": "Audience Labs completely changed my growth trajectory. I went from 200 to 2K average viewers in three months — all from clip traffic on TikTok.",
+        "name": "Emre Yilmaz",
+        "title": "Kick Partner, 2.1K avg viewers",
+        "avatar": "EY",
+        "avatarColor": "#9146FF",
+        "rating": 4.9
+      },
+      {
+        "quote": "I was spending hours clipping my own content. Now I just stream, and their team handles everything. My Instagram Reels blew up overnight.",
+        "name": "Priya Sharma",
+        "title": "Twitch Affiliate, 800 avg viewers",
+        "avatar": "PS",
+        "avatarColor": "#2563EB",
+        "rating": 4.9
+      },
+      {
+        "quote": "The clipper network is insane. They posted 40 clips in one week and three of them went over 500K views. My follower count tripled.",
+        "name": "Marcus Reed",
+        "title": "Kick Partner, 5K avg viewers",
+        "avatar": "MR",
+        "avatarColor": "#10B981",
+        "rating": 5.0
+      },
+      {
+        "quote": "I tried doing TikTok myself for a year with zero results. Audience Labs got me 1M views in my first month. Should have started way sooner.",
+        "name": "Tyler Brooks",
+        "title": "Twitch Partner, 3.2K avg viewers",
+        "avatar": "TB",
+        "avatarColor": "#F59E0B",
+        "rating": 4.8
+      },
+      {
+        "quote": "Their analytics dashboard shows exactly which clips drive the most followers. It's like having a growth team without hiring anyone.",
+        "name": "Elif Kaya",
+        "title": "Kick Affiliate, 600 avg viewers",
+        "avatar": "EK",
+        "avatarColor": "#EF4444",
+        "rating": 5.0
+      },
+      {
+        "quote": "I was skeptical at first, but the results speak for themselves. 280% follower growth in 60 days and I didn't change anything about my stream.",
+        "name": "Can Demir",
+        "title": "Twitch Partner, 8K avg viewers",
+        "avatar": "CD",
+        "avatarColor": "#8B5CF6",
+        "rating": 4.9
+      },
+      {
+        "quote": "Audience Labs found moments in my streams I didn't even realize were clip-worthy. Their editors have an eye for what goes viral.",
+        "name": "Zeynep Aksoy",
+        "title": "Kick Partner, 1.5K avg viewers",
+        "avatar": "ZA",
+        "avatarColor": "#EC4899",
+        "rating": 4.9
+      },
+      {
+        "quote": "The algorithm optimization is real. My clips consistently get 3-5x more views than when I was posting myself. These guys know the platforms.",
+        "name": "Ryan Nakamura",
+        "title": "Twitch Affiliate, 400 avg viewers",
+        "avatar": "RN",
+        "avatarColor": "#06B6D4",
+        "rating": 5.0
+      },
+      {
+        "quote": "I've worked with three different clip services before. Audience Labs is the only one that actually moved the needle on my viewer count.",
+        "name": "Chloe Williams",
+        "title": "Kick Partner, 4K avg viewers",
+        "avatar": "CW",
+        "avatarColor": "#F97316",
+        "rating": 4.8
+      },
+      {
+        "quote": "My TikTok went from 2K to 85K followers in two months. Now I get recognized at events from people who found me through clips.",
+        "name": "Omar Hassan",
+        "title": "Twitch Partner, 6K avg viewers",
+        "avatar": "OH",
+        "avatarColor": "#14B8A6",
+        "rating": 4.9
+      },
+      {
+        "quote": "The zero-effort model is what sold me. I literally just stream and they handle the rest. Best investment I've made for my channel.",
+        "name": "Rachel Kim",
+        "title": "Kick Affiliate, 900 avg viewers",
+        "avatar": "RK",
+        "avatarColor": "#A855F7",
+        "rating": 5.0
+      },
+      {
+        "quote": "Audience Labs helped me land my first brand deal. Sponsors saw my clip views and reached out directly. That alone paid for the service 10x over.",
+        "name": "Burak Sahin",
+        "title": "Twitch Partner, 3.5K avg viewers",
+        "avatar": "BS",
+        "avatarColor": "#3B82F6",
+        "rating": 4.9
+      }
+    ]
+  },
+  "aboutMe": {
+    "badge": "Founder",
+    "firstName": "Kaan",
+    "surname": "KUZU",
+    "githubUsername": "kaankuzu1",
+    "bio": "Full-stack engineer passionate about creating automations that help businesses scale and developing machine learning models. I built Audience Labs to combine intelligent automation, data-driven distribution, and a network of skilled clippers to turn streams into viral moments.",
+    "githubButton": "View on GitHub"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "heading": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about growing your stream with Audience Labs.",
+    "items": [
+      {
+        "question": "Can I control what gets clipped and how accounts look?",
+        "answer": "Absolutely. During onboarding you tell us your preferences — whether accounts should look like fan pages, which streams or upcoming streams you want us to clip from, and any specific style guidelines. We handle everything based on your direction. If something goes up that you don't like, just reach out and we'll fix it right away."
+      },
+      {
+        "question": "Is there a minimum contract or can I cancel anytime?",
+        "answer": "No long-term contracts. We work on a monthly basis and you can cancel at any time — no cancellation fees, no lock-in. We believe our results should keep you around, not a contract."
+      },
+      {
+        "question": "How much does it cost?",
+        "answer": "Pricing depends on your stream volume, number of target platforms, and how many clips per week you want. We offer flexible plans starting from streamers just getting started to full-scale operations. Book a free discovery call and we'll recommend a plan that fits your goals and budget."
+      },
+      {
+        "question": "I'm a small streamer — is this worth it for me?",
+        "answer": "Absolutely. Small streamers often see the biggest percentage growth because short-form clips introduce you to audiences who'd never find your stream otherwise. You don't need a huge following to start — many of our best success stories began with under 50 average viewers."
+      },
+      {
+        "question": "Will the clips actually feel like my brand?",
+        "answer": "That's a priority for us. During onboarding we study your stream style, humor, and audience vibe. Our clippers are matched to creators whose content they genuinely understand. If a clip ever feels off-brand, flag it and we'll adjust — your voice is the one that matters."
+      },
+      {
+        "question": "What if my growth doesn't improve?",
+        "answer": "We share transparent analytics so you always see exactly what's working. If results aren't where they should be, we adjust strategy — different clip styles, posting times, or platforms. And since there's no contract, if you're ever unsatisfied you can walk away. That said, most streamers see measurable growth within the first 2-4 weeks."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Let's Grow",
+    "heading": "Ready to Grow Your Stream?",
+    "description": "Be among the first to tap into clip-powered growth before everyone else catches on. Book a free discovery call and get in on the ground floor.",
+    "stats": [],
+    "button": "Book a Call"
+  },
+  "footer": {
+    "description": "Growing streamer audiences through scalable clip distribution across TikTok and Instagram Reels.",
+    "columns": [
+      {
+        "title": "Services",
+        "links": [
+          { "label": "Clip Distribution", "href": "#services" },
+          { "label": "Campaign Management", "href": "#services" },
+          { "label": "Growth Analytics", "href": "#services" }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          { "label": "About", "href": "#founder" },
+          { "label": "FAQ", "href": "#faq" },
+          { "label": "Contact", "href": "#" }
+        ]
+      },
+      {
+        "title": "Platforms",
+        "links": [
+          { "label": "Kick", "href": "#" },
+          { "label": "Twitch", "href": "#" },
+          { "label": "TikTok", "href": "#" },
+          { "label": "Instagram Reels", "href": "#" }
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          { "label": "Privacy", "href": "#" },
+          { "label": "Terms", "href": "#" },
+          { "label": "Cookies", "href": "#" }
+        ]
+      }
+    ],
+    "copyright": "© 2026 Audience Labs. All rights reserved."
+  }
+}
