@@ -421,7 +421,7 @@ export default function HeroSection({ dict }: { dict: HeroDict }) {
 
             <div className="mt-8">
               <a
-                href="#services"
+                href="#how-it-works"
                 className={`${btnBase} border border-[#2F2F35] text-gray-300 hover:border-gray-500 hover:bg-[#1F1F23]`}
               >
                 {dict.ctaSecondary}
