@@ -42,9 +42,15 @@ export default function Footer({ dict }: { dict: FooterDict }) {
 
           {/* Bottom */}
           <div className="border-t border-[#2F2F35] pt-8 mt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
-            <p className="text-sm text-gray-500">
-              {dict.copyright}
-            </p>
+            <div className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-3">
+              <p className="text-sm text-gray-500">
+                {dict.copyright}
+              </p>
+              <span className="hidden sm:inline text-gray-600">·</span>
+              <p className="text-sm text-gray-500">
+                {dict.parentCompany}
+              </p>
+            </div>
             <div className="flex items-center gap-4">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
                 <Twitter className="w-5 h-5" />
