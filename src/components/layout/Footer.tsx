@@ -2,7 +2,7 @@ import { Twitter, Instagram } from "lucide-react";
 import Container from "@/components/ui/Container";
 import type { FooterDict } from "@/types";
 
-export default function Footer({ dict }: { dict: FooterDict }) {
+export default function Footer({ dict, locale }: { dict: FooterDict; locale: string }) {
   return (
     <footer className="bg-[#0E0E10] text-gray-300">
       <Container>
@@ -28,7 +28,7 @@ export default function Footer({ dict }: { dict: FooterDict }) {
                   {col.links.map((link) => (
                     <li key={link.label}>
                       <a
-                        href={link.href}
+                        href={link.href.startsWith("#") ? link.href : `/${locale}${link.href}`}
                         className="text-sm text-gray-400 hover:text-white transition-colors"
                       >
                         {link.label}

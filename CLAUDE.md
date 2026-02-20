@@ -19,9 +19,9 @@ Uses the Next.js App Router `[locale]` dynamic segment pattern with no external 
 
 - **`src/lib/i18n/config.ts`** — Exports `i18n` config (`defaultLocale: "en"`, `locales: ["en", "tr"]`) and `Locale` type.
 - **`src/lib/i18n/dictionaries.ts`** — Server-only dictionary loader. Lazily imports JSON dictionaries via `import()`.
-- **`src/lib/i18n/dictionaries/en.json`** / **`tr.json`** — All ~120 translatable strings organized by section: `metadata`, `nav`, `hero`, `trustBar`, `impact`, `services`, `simplify`, `whyChoose`, `testimonials`, `aboutMe`, `faq`, `cta`, `footer`. Both files must have identical structure.
+- **`src/lib/i18n/dictionaries/en.json`** / **`tr.json`** — All translatable strings organized by section: `metadata`, `nav`, `hero`, `trustBar`, `impact`, `services`, `simplify`, `whyChoose`, `testimonials`, `aboutMe`, `faq`, `cta`, `privacy`, `terms`, `cookies`, `footer`. Both files must have identical structure. The `privacy`, `terms`, and `cookies` sections each contain `title`, `lastUpdated`, and `sections` (array of `{ heading, content }`) for legal pages.
 - **`middleware.ts`** (project root) — Redirects `/` to `/en` or `/tr` based on `Accept-Language` header. Skips `_next`, `api`, `favicon.ico`, and static assets.
-- **`src/types/index.ts`** — Exports `Dictionary` type (derived from `en.json` shape) plus per-section subtypes (`NavDict`, `HeroDict`, `ImpactDict`, `AboutMeDict`, etc.) used as component props.
+- **`src/types/index.ts`** — Exports `Dictionary` type (derived from `en.json` shape) plus per-section subtypes (`NavDict`, `HeroDict`, `ImpactDict`, `AboutMeDict`, `LegalPageDict`, `PrivacyDict`, `TermsDict`, `CookiesDict`, etc.) used as component props.
 
 **Adding a new translatable string:** Add the key/value to both `en.json` and `tr.json` in the same location. The `Dictionary` type auto-updates since it's derived from the JSON import shape.
 
@@ -31,7 +31,9 @@ Uses the Next.js App Router `[locale]` dynamic segment pattern with no external 
 
 `src/app/[locale]/page.tsx` assembles 9 section components in order: Hero → ServicesSection (`#services`) → SimplifySection ("How It Works") → ImpactSection (`#about`) → WhyChooseUsSection → AboutSection (`#creator`) → TestimonialsSection (`#testimonials`, currently commented out) → FAQSection (`#faq`) → CTASection. Nav links are defined per-locale in the dictionary JSON files (Services → How It Works → About → Testimonials → FAQ).
 
-`src/app/[locale]/layout.tsx` is the main layout: renders `<html lang={locale}>`, loads Inter + Space Mono fonts via `next/font/google`, wraps pages with `<Navbar dict={dict.nav} locale={locale}>` and `<Footer dict={dict.footer}>`. Has `generateMetadata` for per-locale title/description and `generateStaticParams` for both locales.
+`src/app/[locale]/layout.tsx` is the main layout: renders `<html lang={locale}>`, loads Inter + Space Mono fonts via `next/font/google`, wraps pages with `<Navbar dict={dict.nav} locale={locale}>` and `<Footer dict={dict.footer} locale={locale}>`. Has `generateMetadata` for per-locale title/description and `generateStaticParams` for both locales.
+
+Legal pages (`src/app/[locale]/privacy/page.tsx`, `terms/page.tsx`, `cookies/page.tsx`) are server components that render prose-style legal content from dictionary `privacy`/`terms`/`cookies` sections. Each has `generateMetadata` and `generateStaticParams`. They inherit Navbar + Footer from the `[locale]` layout.
 
 `src/app/layout.tsx` is a bare shell that just returns `children` (required by Next.js but delegates everything to the `[locale]` layout).
 

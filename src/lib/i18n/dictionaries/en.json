@@ -310,6 +310,128 @@
     "stats": [],
     "button": "Book a Call"
   },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: February 20, 2026",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "content": "Audience Labs, operated by Mindora Systems & Growth, is committed to protecting the privacy of streamers, viewers, and visitors who use our clip distribution services. This Privacy Policy explains how we collect, use, and safeguard your information when you use our platform and services."
+      },
+      {
+        "heading": "Information We Collect",
+        "content": "We collect information you provide directly, such as your name, email address, streaming platform username, and payment details when you sign up for our services. We also collect data related to your stream clips, including clip metadata, view counts, engagement metrics, and platform performance data from TikTok, Instagram Reels, and YouTube Shorts. Additionally, we gather technical data such as IP addresses, browser type, and device information when you visit our website."
+      },
+      {
+        "heading": "How We Use Your Information",
+        "content": "We use your information to provide and improve our clip distribution services, manage your clipper network campaigns, generate performance analytics and weekly reports, communicate with you about your account and campaign results, process payments and manage billing, and comply with legal obligations. We do not sell your personal information to third parties."
+      },
+      {
+        "heading": "Clip Data & Platform Integration",
+        "content": "Our clipper network captures and processes stream clips from Kick and Twitch for distribution across TikTok and Instagram Reels. Clip content, metadata, and performance metrics are stored securely and used solely for providing our distribution and analytics services. We create dedicated clip accounts on your behalf and do not require access to your personal social media accounts."
+      },
+      {
+        "heading": "Data Sharing",
+        "content": "We may share your information with trusted service providers who assist in operating our platform (such as hosting, analytics, and payment processing), social media platforms where clips are distributed (only clip content and associated metadata), and legal authorities when required by law. We require all third parties to respect the security of your data and treat it in accordance with applicable laws."
+      },
+      {
+        "heading": "Data Security",
+        "content": "We implement industry-standard security measures to protect your personal information, including encrypted data transmission, secure server infrastructure, and regular security audits. However, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security."
+      },
+      {
+        "heading": "Your Rights",
+        "content": "You have the right to access, correct, or delete your personal data. You may also request a copy of the data we hold about you or withdraw your consent for data processing at any time. To exercise any of these rights, please contact us at privacy@audiencelabs.co."
+      },
+      {
+        "heading": "Changes to This Policy",
+        "content": "We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the updated policy on our website and updating the 'Last updated' date. Your continued use of our services after any changes constitutes acceptance of the updated policy."
+      },
+      {
+        "heading": "Contact Us",
+        "content": "If you have any questions about this Privacy Policy or our data practices, please contact us at privacy@audiencelabs.co or through the contact form on our website."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: February 20, 2026",
+    "sections": [
+      {
+        "heading": "Agreement to Terms",
+        "content": "By accessing or using the services provided by Audience Labs (operated by Mindora Systems & Growth), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services."
+      },
+      {
+        "heading": "Description of Services",
+        "content": "Audience Labs provides clip distribution and audience growth services for Kick and Twitch streamers. Our services include identifying and capturing stream highlights, editing and optimizing clips for short-form platforms, distributing clips across TikTok, Instagram Reels, and YouTube Shorts through our clipper network, providing performance analytics and weekly reports, and managing campaign strategies for audience growth."
+      },
+      {
+        "heading": "Account & Onboarding",
+        "content": "To use our services, you must complete our onboarding process and provide accurate information about your streaming channel and content preferences. You are responsible for maintaining the confidentiality of your account information. We create and manage dedicated clip distribution accounts on your behalf — you retain full control of your personal social media accounts at all times."
+      },
+      {
+        "heading": "Content Rights & Licensing",
+        "content": "You retain all ownership rights to your original stream content. By using our services, you grant Audience Labs a non-exclusive, royalty-free license to clip, edit, and distribute portions of your stream content across supported platforms for the purpose of growing your audience. This license ends when you terminate your subscription, and we will remove distributed content upon request within a reasonable timeframe."
+      },
+      {
+        "heading": "Payment & Billing",
+        "content": "Our services are billed on a monthly basis. Pricing is determined during onboarding based on your stream volume, target platforms, and desired clip frequency. You agree to pay all fees associated with your selected plan. Payments are due at the beginning of each billing cycle. We reserve the right to adjust pricing with 30 days' advance notice."
+      },
+      {
+        "heading": "Cancellation & Termination",
+        "content": "You may cancel your subscription at any time without cancellation fees or penalties. Upon cancellation, services will continue until the end of your current billing period. We may terminate or suspend your account if you violate these terms, engage in fraudulent activity, or fail to make timely payments."
+      },
+      {
+        "heading": "Performance & Disclaimers",
+        "content": "While we strive to deliver measurable audience growth, specific results may vary based on content quality, platform algorithms, and market conditions. Growth metrics shared in our marketing materials represent results achieved by actual clients but are not guaranteed outcomes. We provide transparent analytics so you can track your campaign's performance at all times."
+      },
+      {
+        "heading": "Limitation of Liability",
+        "content": "To the maximum extent permitted by law, Audience Labs and Mindora Systems & Growth shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services, including but not limited to loss of revenue, data, or audience metrics. Our total liability shall not exceed the amount you paid for services in the preceding 12 months."
+      },
+      {
+        "heading": "Governing Law",
+        "content": "These Terms of Service are governed by and construed in accordance with the laws of the Republic of Turkey. Any disputes arising from these terms shall be resolved in the courts of Istanbul, Turkey."
+      },
+      {
+        "heading": "Changes to Terms",
+        "content": "We reserve the right to modify these Terms of Service at any time. We will provide notice of material changes via email or through our platform. Your continued use of our services after such modifications constitutes acceptance of the updated terms."
+      }
+    ]
+  },
+  "cookies": {
+    "title": "Cookie Policy",
+    "lastUpdated": "Last updated: February 20, 2026",
+    "sections": [
+      {
+        "heading": "What Are Cookies",
+        "content": "Cookies are small text files stored on your device when you visit a website. They help the website remember your preferences and improve your browsing experience. Audience Labs (operated by Mindora Systems & Growth) uses cookies and similar technologies on our website."
+      },
+      {
+        "heading": "How We Use Cookies",
+        "content": "We use cookies to ensure our website functions properly, remember your language preference (English or Turkish), analyze website traffic and usage patterns, improve our website performance and user experience, and understand how visitors interact with our content and services."
+      },
+      {
+        "heading": "Types of Cookies We Use",
+        "content": "Essential cookies are required for the website to function and cannot be disabled. They include cookies for language selection and session management. Analytics cookies help us understand how visitors use our website by collecting anonymous usage data. We use these insights to improve our site and services. Preference cookies remember your settings and choices, such as your selected language, to provide a more personalized experience."
+      },
+      {
+        "heading": "Third-Party Cookies",
+        "content": "Some cookies are placed by third-party services that appear on our pages. We use Cal.com for booking scheduling, which may set its own cookies. We do not control third-party cookies and recommend reviewing their respective privacy policies for more information."
+      },
+      {
+        "heading": "Managing Cookies",
+        "content": "You can control and manage cookies through your browser settings. Most browsers allow you to block or delete cookies. However, disabling essential cookies may affect the functionality of our website. Please note that blocking cookies may prevent certain features, such as language preferences, from working correctly."
+      },
+      {
+        "heading": "Changes to This Policy",
+        "content": "We may update this Cookie Policy from time to time to reflect changes in technology or legal requirements. Any updates will be posted on this page with a revised 'Last updated' date."
+      },
+      {
+        "heading": "Contact Us",
+        "content": "If you have questions about our use of cookies, please contact us at privacy@audiencelabs.co or through the contact form on our website."
+      }
+    ]
+  },
   "footer": {
     "description": "Growing streamer audiences through scalable clip distribution across TikTok and Instagram Reels.",
     "columns": [
@@ -341,9 +463,9 @@
       {
         "title": "Legal",
         "links": [
-          { "label": "Privacy", "href": "#" },
-          { "label": "Terms", "href": "#" },
-          { "label": "Cookies", "href": "#" }
+          { "label": "Privacy", "href": "/privacy" },
+          { "label": "Terms", "href": "/terms" },
+          { "label": "Cookies", "href": "/cookies" }
         ]
       }
     ],

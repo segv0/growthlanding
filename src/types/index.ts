@@ -67,3 +67,18 @@ export type CTADict = Omit<Dictionary["cta"], "stats"> & {
   stats: CTAStat[];
 };
 export type FooterDict = Dictionary["footer"];
+
+export interface LegalSection {
+  heading: string;
+  content: string;
+}
+
+export interface LegalPageDict {
+  title: string;
+  lastUpdated: string;
+  sections: LegalSection[];
+}
+
+export type PrivacyDict = LegalPageDict;
+export type TermsDict = LegalPageDict;
+export type CookiesDict = LegalPageDict;
