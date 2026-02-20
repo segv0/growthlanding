@@ -16,7 +16,7 @@ import type { CTADict } from "@/types";
 
 export default function CTASection({ dict }: { dict: CTADict }) {
   return (
-    <section className="bg-[#0E0E10] py-16 md:py-24 relative overflow-hidden">
+    <section id="contact" className="bg-[#0E0E10] py-16 md:py-24 relative overflow-hidden">
       {/* Background glow */}
       <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[400px] bg-brand-500/15 rounded-full blur-[120px] pointer-events-none" />
 
