@@ -312,31 +312,27 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: February 20, 2026",
+    "lastUpdated": "Last updated: February 22, 2026",
     "sections": [
       {
         "heading": "Introduction",
-        "content": "Audience Labs, operated by Mindora Systems & Growth, is committed to protecting the privacy of streamers, viewers, and visitors who use our clip distribution services. This Privacy Policy explains how we collect, use, and safeguard your information when you use our platform and services."
+        "content": "Audience Labs, operated by Mindora Systems & Growth, is committed to protecting the privacy of streamers and visitors who use our content distribution services. This Privacy Policy explains how we collect, use, and safeguard your information when you interact with our platform and services."
       },
       {
         "heading": "Information We Collect",
-        "content": "We collect information you provide directly, such as your name, email address, streaming platform username, and payment details when you sign up for our services. We also collect data related to your stream clips, including clip metadata, view counts, engagement metrics, and platform performance data from TikTok, Instagram Reels, and YouTube Shorts. Additionally, we gather technical data such as IP addresses, browser type, and device information when you visit our website."
+        "content": "We collect a limited set of information that you provide directly: your email address, streaming channel name, and platform links (e.g. Kick or Twitch profile URLs). We also gather basic technical data such as IP addresses, browser type, and device information when you visit our website. We do not collect your passwords, login credentials, or request access to your personal streaming or social media accounts."
       },
       {
         "heading": "How We Use Your Information",
-        "content": "We use your information to provide and improve our clip distribution services, manage your clipper network campaigns, generate performance analytics and weekly reports, communicate with you about your account and campaign results, process payments and manage billing, and comply with legal obligations. We do not sell your personal information to third parties."
+        "content": "We use your information to provide and manage our content distribution services, communicate with you about your campaigns and account, process payments and manage billing, and comply with legal obligations. We do not sell your personal information to third parties."
       },
       {
-        "heading": "Clip Data & Platform Integration",
-        "content": "Our clipper network captures and processes stream clips from Kick and Twitch for distribution across TikTok and Instagram Reels. Clip content, metadata, and performance metrics are stored securely and used solely for providing our distribution and analytics services. We create dedicated clip accounts on your behalf and do not require access to your personal social media accounts."
-      },
-      {
-        "heading": "Data Sharing",
-        "content": "We may share your information with trusted service providers who assist in operating our platform (such as hosting, analytics, and payment processing), social media platforms where clips are distributed (only clip content and associated metadata), and legal authorities when required by law. We require all third parties to respect the security of your data and treat it in accordance with applicable laws."
+        "heading": "Content Distribution & Third Parties",
+        "content": "Clips distributed through our service are derived from publicly available broadcast content. Distribution may be carried out by independent third-party clip creators who operate their own accounts. Audience Labs coordinates this distribution network but does not control the accounts used for distribution. No personal user data is shared with these independent third parties — only publicly available stream content is used."
       },
       {
         "heading": "Data Security",
-        "content": "We implement industry-standard security measures to protect your personal information, including encrypted data transmission, secure server infrastructure, and regular security audits. However, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security."
+        "content": "We implement industry-standard security measures to protect your personal information, including encrypted data transmission and secure server infrastructure. However, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security."
       },
       {
         "heading": "Your Rights",
@@ -348,13 +344,13 @@
       },
       {
         "heading": "Contact Us",
-        "content": "If you have any questions about this Privacy Policy or our data practices, please contact us at info@mindorasystems.com or through the contact form on our website."
+        "content": "If you have any questions about this Privacy Policy or our data practices, please contact us at info@mindorasystems.com."
       }
     ]
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: February 20, 2026",
+    "lastUpdated": "Last updated: February 22, 2026",
     "sections": [
       {
         "heading": "Agreement to Terms",
@@ -362,31 +358,39 @@
       },
       {
         "heading": "Description of Services",
-        "content": "Audience Labs provides clip distribution and audience growth services for Kick and Twitch streamers. Our services include identifying and capturing stream highlights, editing and optimizing clips for short-form platforms, distributing clips across TikTok, Instagram Reels, and YouTube Shorts through our clipper network, providing performance analytics and weekly reports, and managing campaign strategies for audience growth."
+        "content": "Audience Labs provides content distribution and visibility services for streamers on platforms such as Kick and Twitch. Our services are delivered on a best-effort basis and include coordinating the distribution of stream-derived clips across short-form content platforms such as TikTok and Instagram Reels, and providing campaign-level reporting. Audience Labs does not guarantee any specific outcomes including but not limited to views, followers, virality, or revenue."
       },
       {
-        "heading": "Account & Onboarding",
-        "content": "To use our services, you must complete our onboarding process and provide accurate information about your streaming channel and content preferences. You are responsible for maintaining the confidentiality of your account information. We create and manage dedicated clip distribution accounts on your behalf — you retain full control of your personal social media accounts at all times."
+        "heading": "Campaign-Based Model",
+        "content": "Audience Labs operates on a campaign-based model, not a subscription. Each campaign covers a defined time period agreed upon during onboarding. Upon completion of a campaign period, distributed content may remain live on third-party platforms. Continuation of services requires a new campaign agreement."
       },
       {
-        "heading": "Content Rights & Licensing",
-        "content": "You retain all ownership rights to your original stream content. By using our services, you grant Audience Labs a non-exclusive, royalty-free license to clip, edit, and distribute portions of your stream content across supported platforms for the purpose of growing your audience. This license ends when you terminate your subscription, and we will remove distributed content upon request within a reasonable timeframe."
+        "heading": "Distribution Accounts & Third Parties",
+        "content": "Clips are distributed through accounts that are not owned by or affiliated with the client. These accounts may be operated by independent third-party clip creators coordinated by Audience Labs. The client has no ownership claim over any distribution accounts used in the campaign. Audience Labs is not liable for actions taken by third-party platforms or account operators, including but not limited to account suspensions, content removals, or policy changes."
+      },
+      {
+        "heading": "Content Rights & Copyright",
+        "content": "By using our services, the client represents and warrants that they are the rightful owner of the stream content provided, or have obtained all necessary permissions to use such content. The client grants Audience Labs a non-exclusive, royalty-free license to clip, edit, and distribute portions of their stream content across supported platforms for the duration of the campaign. Responsibility for any copyright infringement claims arising from the provided content lies solely with the client. Audience Labs does not initiate copyright claims on behalf of clients. Upon client request, distribution of specific content can be halted."
+      },
+      {
+        "heading": "Content Originality",
+        "content": "Content is prepared specifically for each client and may be produced in different edits, formats, and variations. The same source material may be distributed in multiple versions across platforms. Audience Labs applies duplicate content avoidance practices but does not guarantee that no content overlap will occur."
       },
       {
         "heading": "Payment & Billing",
-        "content": "Our services are billed on a monthly basis. Pricing is determined during onboarding based on your stream volume, target platforms, and desired clip frequency. You agree to pay all fees associated with your selected plan. Payments are due at the beginning of each billing cycle. We reserve the right to adjust pricing with 30 days' advance notice."
+        "content": "Campaign pricing is determined during onboarding and is payable as a one-time fee per campaign period. Payment is due before the campaign begins. Audience Labs reserves the right to adjust pricing for future campaigns with prior notice."
       },
       {
-        "heading": "Cancellation & Termination",
-        "content": "You may cancel your subscription at any time without cancellation fees or penalties. Upon cancellation, services will continue until the end of your current billing period. We may terminate or suspend your account if you violate these terms, engage in fraudulent activity, or fail to make timely payments."
+        "heading": "Cancellation & Refund Policy",
+        "content": "Cancellation is possible before a campaign has started, in which case a full refund will be issued. Once a campaign has commenced, no refunds will be provided. Custom-configured campaign packages are non-refundable. Audience Labs may terminate a client's campaign if the client violates these terms or engages in fraudulent activity."
       },
       {
-        "heading": "Performance & Disclaimers",
-        "content": "While we strive to deliver measurable audience growth, specific results may vary based on content quality, platform algorithms, and market conditions. Growth metrics shared in our marketing materials represent results achieved by actual clients but are not guaranteed outcomes. We provide transparent analytics so you can track your campaign's performance at all times."
+        "heading": "Performance Disclaimer",
+        "content": "Audience Labs provides a content distribution and visibility service, not a results guarantee. Views, follower growth, engagement, virality, and revenue are influenced by factors outside of Audience Labs' control, including but not limited to platform algorithms, content quality, market conditions, and audience behaviour. No specific performance outcomes are promised or implied."
       },
       {
         "heading": "Limitation of Liability",
-        "content": "To the maximum extent permitted by law, Audience Labs and Mindora Systems & Growth shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our services, including but not limited to loss of revenue, data, or audience metrics. Our total liability shall not exceed the amount you paid for services in the preceding 12 months."
+        "content": "To the maximum extent permitted by law, Audience Labs and Mindora Systems & Growth shall not be liable for any indirect, incidental, special, or consequential damages arising from the use of our services, including but not limited to loss of revenue, data, or audience metrics. Our total liability shall not exceed the amount paid by the client for the relevant campaign."
       },
       {
         "heading": "Governing Law",
@@ -394,13 +398,13 @@
       },
       {
         "heading": "Changes to Terms",
-        "content": "We reserve the right to modify these Terms of Service at any time. We will provide notice of material changes via email or through our platform. Your continued use of our services after such modifications constitutes acceptance of the updated terms."
+        "content": "We reserve the right to modify these Terms of Service at any time. We will provide notice of material changes via email or through our platform. Continued use of our services after such modifications constitutes acceptance of the updated terms."
       }
     ]
   },
   "cookies": {
     "title": "Cookie Policy",
-    "lastUpdated": "Last updated: February 20, 2026",
+    "lastUpdated": "Last updated: February 22, 2026",
     "sections": [
       {
         "heading": "What Are Cookies",
@@ -408,11 +412,11 @@
       },
       {
         "heading": "How We Use Cookies",
-        "content": "We use cookies to ensure our website functions properly, remember your language preference (English or Turkish), analyze website traffic and usage patterns, improve our website performance and user experience, and understand how visitors interact with our content and services."
+        "content": "We use cookies to ensure our website functions properly, remember your language preference (English or Turkish), analyze website traffic and usage patterns, and improve our website performance and user experience."
       },
       {
         "heading": "Types of Cookies We Use",
-        "content": "Essential cookies are required for the website to function and cannot be disabled. They include cookies for language selection and session management. Analytics cookies help us understand how visitors use our website by collecting anonymous usage data. We use these insights to improve our site and services. Preference cookies remember your settings and choices, such as your selected language, to provide a more personalized experience."
+        "content": "Essential cookies are required for the website to function and cannot be disabled. They include cookies for language selection and session management. Analytics cookies help us understand how visitors use our website by collecting anonymous usage data. Preference cookies remember your settings and choices, such as your selected language, to provide a more personalized experience."
       },
       {
         "heading": "Third-Party Cookies",
@@ -420,7 +424,7 @@
       },
       {
         "heading": "Managing Cookies",
-        "content": "You can control and manage cookies through your browser settings. Most browsers allow you to block or delete cookies. However, disabling essential cookies may affect the functionality of our website. Please note that blocking cookies may prevent certain features, such as language preferences, from working correctly."
+        "content": "You can control and manage cookies through your browser settings. Most browsers allow you to block or delete cookies. However, disabling essential cookies may affect the functionality of our website. Blocking cookies may prevent certain features, such as language preferences, from working correctly."
       },
       {
         "heading": "Changes to This Policy",
@@ -428,7 +432,7 @@
       },
       {
         "heading": "Contact Us",
-        "content": "If you have questions about our use of cookies, please contact us at info@mindorasystems.com or through the contact form on our website."
+        "content": "If you have questions about our use of cookies, please contact us at info@mindorasystems.com."
       }
     ]
   },

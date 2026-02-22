@@ -312,31 +312,27 @@
   },
   "privacy": {
     "title": "Gizlilik Politikası",
-    "lastUpdated": "Son güncelleme: 20 Şubat 2026",
+    "lastUpdated": "Son güncelleme: 22 Şubat 2026",
     "sections": [
       {
         "heading": "Giriş",
-        "content": "Mindora Systems & Growth bünyesinde faaliyet gösteren Audience Labs, klip dağıtım hizmetlerimizi kullanan yayıncıların, izleyicilerin ve ziyaretçilerin gizliliğini korumaya kararlıdır. Bu Gizlilik Politikası, platformumuzu ve hizmetlerimizi kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar."
+        "content": "Mindora Systems & Growth bünyesinde faaliyet gösteren Audience Labs, içerik dağıtım hizmetlerimizi kullanan yayıncıların ve ziyaretçilerin gizliliğini korumaya kararlıdır. Bu Gizlilik Politikası, platformumuz ve hizmetlerimizle etkileşime girdiğinizde bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklar."
       },
       {
         "heading": "Topladığımız Bilgiler",
-        "content": "Hizmetlerimize kaydolduğunuzda adınız, e-posta adresiniz, yayın platformu kullanıcı adınız ve ödeme bilgileriniz gibi doğrudan sağladığınız bilgileri topluyoruz. Ayrıca klip meta verileri, görüntüleme sayıları, etkileşim metrikleri ve TikTok, Instagram Reels ve YouTube Shorts'tan platform performans verileri dahil olmak üzere yayın kliplerinizle ilgili verileri topluyoruz. Ek olarak, web sitemizi ziyaret ettiğinizde IP adresleri, tarayıcı türü ve cihaz bilgileri gibi teknik veriler de topluyoruz."
+        "content": "Doğrudan sağladığınız sınırlı bir bilgi seti topluyoruz: e-posta adresiniz, yayın kanal adınız ve platform bağlantılarınız (örn. Kick veya Twitch profil URL'leriniz). Ayrıca web sitemizi ziyaret ettiğinizde IP adresleri, tarayıcı türü ve cihaz bilgileri gibi temel teknik veriler topluyoruz. Şifrelerinizi, giriş bilgilerinizi toplamıyoruz ve kişisel yayın veya sosyal medya hesaplarınıza erişim talep etmiyoruz."
       },
       {
         "heading": "Bilgilerinizi Nasıl Kullanıyoruz",
-        "content": "Bilgilerinizi klip dağıtım hizmetlerimizi sağlamak ve geliştirmek, clipper ağı kampanyalarınızı yönetmek, performans analitiği ve haftalık raporlar oluşturmak, hesabınız ve kampanya sonuçlarınız hakkında sizinle iletişim kurmak, ödemeleri işlemek ve faturalandırmayı yönetmek ve yasal yükümlülüklerimizi yerine getirmek için kullanıyoruz. Kişisel bilgilerinizi üçüncü taraflara satmıyoruz."
+        "content": "Bilgilerinizi içerik dağıtım hizmetlerimizi sağlamak ve yönetmek, kampanyalarınız ve hesabınız hakkında sizinle iletişim kurmak, ödemeleri işlemek ve faturalandırmayı yönetmek ve yasal yükümlülüklerimizi yerine getirmek için kullanıyoruz. Kişisel bilgilerinizi üçüncü taraflara satmıyoruz."
       },
       {
-        "heading": "Klip Verileri ve Platform Entegrasyonu",
-        "content": "Clipper ağımız, TikTok ve Instagram Reels'de dağıtım için Kick ve Twitch'ten yayın kliplerini yakalar ve işler. Klip içerikleri, meta verileri ve performans metrikleri güvenli bir şekilde saklanır ve yalnızca dağıtım ve analitik hizmetlerimizi sağlamak amacıyla kullanılır. Sizin adınıza özel klip hesapları oluşturuyoruz ve kişisel sosyal medya hesaplarınıza erişim talep etmiyoruz."
-      },
-      {
-        "heading": "Veri Paylaşımı",
-        "content": "Bilgilerinizi platformumuzun işletilmesine yardımcı olan güvenilir hizmet sağlayıcılarla (barındırma, analitik ve ödeme işleme gibi), kliplerin dağıtıldığı sosyal medya platformlarıyla (yalnızca klip içeriği ve ilgili meta veriler) ve yasaların gerektirdiği durumlarda yasal makamlarla paylaşabiliriz. Tüm üçüncü tarafların verilerinizin güvenliğine saygı göstermesini ve yürürlükteki yasalara uygun şekilde işlemesini zorunlu kılıyoruz."
+        "heading": "İçerik Dağıtımı ve Üçüncü Taraflar",
+        "content": "Hizmetimiz aracılığıyla dağıtılan klipler, kamuya açık yayın içeriklerinden elde edilir. Dağıtım, kendi hesaplarını işleten bağımsız üçüncü taraf klip oluşturucuları tarafından gerçekleştirilebilir. Audience Labs bu dağıtım ağını koordine eder ancak dağıtım için kullanılan hesapları kontrol etmez. Bu bağımsız üçüncü taraflarla hiçbir kişisel kullanıcı verisi paylaşılmaz — yalnızca kamuya açık yayın içeriği kullanılır."
       },
       {
         "heading": "Veri Güvenliği",
-        "content": "Kişisel bilgilerinizi korumak için şifreli veri iletimi, güvenli sunucu altyapısı ve düzenli güvenlik denetimleri dahil olmak üzere endüstri standardı güvenlik önlemleri uyguluyoruz. Ancak hiçbir elektronik iletim veya depolama yöntemi %100 güvenli değildir ve mutlak güvenliği garanti edemeyiz."
+        "content": "Kişisel bilgilerinizi korumak için şifreli veri iletimi ve güvenli sunucu altyapısı dahil olmak üzere endüstri standardı güvenlik önlemleri uyguluyoruz. Ancak hiçbir elektronik iletim veya depolama yöntemi %100 güvenli değildir ve mutlak güvenliği garanti edemeyiz."
       },
       {
         "heading": "Haklarınız",
@@ -348,13 +344,13 @@
       },
       {
         "heading": "İletişim",
-        "content": "Bu Gizlilik Politikası veya veri uygulamalarımız hakkında sorularınız varsa, lütfen info@mindorasystems.com adresinden veya web sitemizdeki iletişim formu aracılığıyla bizimle iletişime geçin."
+        "content": "Bu Gizlilik Politikası veya veri uygulamalarımız hakkında sorularınız varsa, lütfen info@mindorasystems.com adresinden bizimle iletişime geçin."
       }
     ]
   },
   "terms": {
     "title": "Kullanım Şartları",
-    "lastUpdated": "Son güncelleme: 20 Şubat 2026",
+    "lastUpdated": "Son güncelleme: 22 Şubat 2026",
     "sections": [
       {
         "heading": "Şartların Kabulü",
@@ -362,31 +358,39 @@
       },
       {
         "heading": "Hizmetlerin Tanımı",
-        "content": "Audience Labs, Kick ve Twitch yayıncıları için klip dağıtım ve kitle büyüme hizmetleri sunar. Hizmetlerimiz yayın öne çıkan anlarını tespit etme ve yakalama, kısa form platformlar için klipleri düzenleme ve optimize etme, clipper ağımız aracılığıyla TikTok, Instagram Reels ve YouTube Shorts'ta klip dağıtma, performans analitiği ve haftalık raporlar sunma ve kitle büyümesi için kampanya stratejileri yönetmeyi kapsar."
+        "content": "Audience Labs, Kick ve Twitch gibi platformlardaki yayıncılar için içerik dağıtım ve görünürlük hizmetleri sunar. Hizmetlerimiz en iyi çaba esasına dayalı olarak sunulur ve yayın kaynaklı kliplerin TikTok ve Instagram Reels gibi kısa form içerik platformlarında dağıtımının koordinasyonunu ve kampanya düzeyinde raporlamayı kapsar. Audience Labs; izlenme, takipçi, virallik veya gelir dahil ancak bunlarla sınırlı olmamak üzere belirli sonuçları garanti etmez."
       },
       {
-        "heading": "Hesap ve Onboarding",
-        "content": "Hizmetlerimizi kullanmak için onboarding sürecimizi tamamlamanız ve yayın kanalınız ile içerik tercihleriniz hakkında doğru bilgi sağlamanız gerekmektedir. Hesap bilgilerinizin gizliliğini korumak sizin sorumluluğunuzdadır. Sizin adınıza özel klip dağıtım hesapları oluşturup yönetiyoruz — kişisel sosyal medya hesaplarınız her zaman tamamen sizin kontrolünüzde kalır."
+        "heading": "Kampanya Bazlı Model",
+        "content": "Audience Labs abonelik değil, kampanya bazlı bir modelle çalışır. Her kampanya, onboarding sırasında üzerinde anlaşılan belirli bir süreyi kapsar. Kampanya süresi tamamlandığında, dağıtılan içerikler üçüncü taraf platformlarda yayında kalabilir. Hizmetlerin devamı yeni bir kampanya anlaşması gerektirir."
       },
       {
-        "heading": "İçerik Hakları ve Lisanslama",
-        "content": "Orijinal yayın içeriğiniz üzerindeki tüm mülkiyet haklarını korursunuz. Hizmetlerimizi kullanarak, Audience Labs'a kitlenizi büyütmek amacıyla yayın içeriğinizin bölümlerini desteklenen platformlarda klipleme, düzenleme ve dağıtma konusunda münhasır olmayan, telifsiz bir lisans verirsiniz. Bu lisans aboneliğinizi sonlandırdığınızda sona erer ve talep üzerine dağıtılan içeriği makul bir süre içinde kaldırırız."
+        "heading": "Dağıtım Hesapları ve Üçüncü Taraflar",
+        "content": "Klipler, müşteriye ait olmayan veya müşteriyle ilişkili olmayan hesaplar aracılığıyla dağıtılır. Bu hesaplar, Audience Labs tarafından koordine edilen bağımsız üçüncü taraf klip oluşturucuları tarafından işletilebilir. Müşterinin, kampanyada kullanılan dağıtım hesapları üzerinde herhangi bir mülkiyet iddiası bulunmamaktadır. Audience Labs, hesap askıya almaları, içerik kaldırmaları veya politika değişiklikleri dahil ancak bunlarla sınırlı olmamak üzere üçüncü taraf platformlar veya hesap işletmecileri tarafından gerçekleştirilen eylemlerden sorumlu değildir."
+      },
+      {
+        "heading": "İçerik Hakları ve Telif",
+        "content": "Hizmetlerimizi kullanarak müşteri, sağlanan yayın içeriğinin hak sahibi olduğunu veya bu içeriği kullanmak için gerekli tüm izinleri aldığını beyan ve garanti eder. Müşteri, Audience Labs'a kampanya süresince yayın içeriğinin bölümlerini desteklenen platformlarda klipleme, düzenleme ve dağıtma konusunda münhasır olmayan, telifsiz bir lisans verir. Sağlanan içerikten kaynaklanan telif hakkı ihlali iddialarının sorumluluğu yalnızca müşteriye aittir. Audience Labs, müşteriler adına telif hakkı bildirimi başlatmaz. Müşteri talebi üzerine belirli içeriklerin dağıtımı durdurulabilir."
+      },
+      {
+        "heading": "İçerik Özgünlüğü",
+        "content": "İçerikler her müşteri için özel olarak hazırlanır ve farklı düzenlemeler, formatlar ve varyasyonlarda üretilebilir. Aynı kaynak materyal, platformlar arasında birden fazla versiyonda dağıtılabilir. Audience Labs mükerrer içerik önleme uygulamaları uygular ancak hiçbir içerik örtüşmesinin olmayacağını garanti etmez."
       },
       {
         "heading": "Ödeme ve Faturalandırma",
-        "content": "Hizmetlerimiz aylık olarak faturalandırılır. Fiyatlandırma, onboarding sırasında yayın hacminize, hedef platformlarınıza ve istediğiniz klip sıklığına göre belirlenir. Seçtiğiniz planla ilişkili tüm ücretleri ödemeyi kabul edersiniz. Ödemeler her fatura döneminin başında yapılır. 30 gün önceden bildirimde bulunarak fiyatlandırmayı değiştirme hakkımız saklıdır."
+        "content": "Kampanya fiyatlandırması onboarding sırasında belirlenir ve kampanya dönemi başına tek seferlik ücret olarak ödenir. Ödeme, kampanya başlamadan önce yapılır. Audience Labs, önceden bildirimde bulunarak gelecek kampanyalar için fiyatlandırmayı değiştirme hakkını saklı tutar."
       },
       {
-        "heading": "İptal ve Fesih",
-        "content": "Aboneliğinizi iptal ücreti veya ceza olmaksızın istediğiniz zaman iptal edebilirsiniz. İptal üzerine, hizmetler mevcut fatura döneminizin sonuna kadar devam eder. Bu şartları ihlal etmeniz, dolandırıcılık faaliyetinde bulunmanız veya zamanında ödeme yapmamanız durumunda hesabınızı feshedebilir veya askıya alabiliriz."
+        "heading": "İptal ve İade Politikası",
+        "content": "Kampanya başlamadan önce iptal mümkündür, bu durumda tam iade yapılır. Kampanya başladıktan sonra iade yapılmaz. Özel yapılandırılmış kampanya paketleri iade edilemez. Müşterinin bu şartları ihlal etmesi veya dolandırıcılık faaliyetinde bulunması durumunda Audience Labs kampanyayı feshedebilir."
       },
       {
-        "heading": "Performans ve Sorumluluk Reddi",
-        "content": "Ölçülebilir kitle büyümesi sağlamak için çalışsak da, belirli sonuçlar içerik kalitesi, platform algoritmaları ve pazar koşullarına göre değişebilir. Pazarlama materyallerimizde paylaşılan büyüme metrikleri gerçek müşteriler tarafından elde edilen sonuçları temsil eder ancak garantili çıktılar değildir. Kampanyanızın performansını her zaman takip edebilmeniz için şeffaf analitik sağlıyoruz."
+        "heading": "Performans Sorumluluk Reddi",
+        "content": "Audience Labs bir içerik dağıtım ve görünürlük hizmeti sunar, sonuç garantisi vermez. İzlenme, takipçi artışı, etkileşim, virallik ve gelir; platform algoritmaları, içerik kalitesi, pazar koşulları ve izleyici davranışı dahil ancak bunlarla sınırlı olmamak üzere Audience Labs'ın kontrolü dışındaki faktörlerden etkilenir. Belirli performans sonuçları taahhüt edilmez veya ima edilmez."
       },
       {
         "heading": "Sorumluluk Sınırlaması",
-        "content": "Yasaların izin verdiği azami ölçüde, Audience Labs ve Mindora Systems & Growth, hizmetlerimizin kullanımından kaynaklanan gelir, veri veya kitle metrikleri kaybı dahil ancak bunlarla sınırlı olmamak üzere dolaylı, arızi, özel veya sonuç olarak ortaya çıkan zararlardan sorumlu olmayacaktır. Toplam sorumluluğumuz, önceki 12 ay içinde hizmetler için ödediğiniz tutarı aşmayacaktır."
+        "content": "Yasaların izin verdiği azami ölçüde, Audience Labs ve Mindora Systems & Growth, hizmetlerimizin kullanımından kaynaklanan gelir, veri veya kitle metrikleri kaybı dahil ancak bunlarla sınırlı olmamak üzere dolaylı, arızi, özel veya sonuç olarak ortaya çıkan zararlardan sorumlu olmayacaktır. Toplam sorumluluğumuz, müşterinin ilgili kampanya için ödediği tutarı aşmayacaktır."
       },
       {
         "heading": "Uygulanacak Hukuk",
@@ -400,7 +404,7 @@
   },
   "cookies": {
     "title": "Çerez Politikası",
-    "lastUpdated": "Son güncelleme: 20 Şubat 2026",
+    "lastUpdated": "Son güncelleme: 22 Şubat 2026",
     "sections": [
       {
         "heading": "Çerezler Nedir",
@@ -408,11 +412,11 @@
       },
       {
         "heading": "Çerezleri Nasıl Kullanıyoruz",
-        "content": "Çerezleri web sitemizin düzgün çalışmasını sağlamak, dil tercihinizi (İngilizce veya Türkçe) hatırlamak, web sitesi trafiğini ve kullanım kalıplarını analiz etmek, web sitesi performansımızı ve kullanıcı deneyimini geliştirmek ve ziyaretçilerin içeriklerimiz ve hizmetlerimizle nasıl etkileşime girdiğini anlamak için kullanıyoruz."
+        "content": "Çerezleri web sitemizin düzgün çalışmasını sağlamak, dil tercihinizi (İngilizce veya Türkçe) hatırlamak, web sitesi trafiğini ve kullanım kalıplarını analiz etmek ve web sitesi performansımızı ve kullanıcı deneyimini geliştirmek için kullanıyoruz."
       },
       {
         "heading": "Kullandığımız Çerez Türleri",
-        "content": "Temel çerezler web sitesinin çalışması için gereklidir ve devre dışı bırakılamaz. Dil seçimi ve oturum yönetimi için çerezleri içerir. Analitik çerezler, anonim kullanım verileri toplayarak ziyaretçilerin web sitemizi nasıl kullandığını anlamamıza yardımcı olur. Bu bilgileri sitemizi ve hizmetlerimizi geliştirmek için kullanıyoruz. Tercih çerezleri, daha kişiselleştirilmiş bir deneyim sunmak için seçtiğiniz dil gibi ayarlarınızı ve tercihlerinizi hatırlar."
+        "content": "Temel çerezler web sitesinin çalışması için gereklidir ve devre dışı bırakılamaz. Dil seçimi ve oturum yönetimi için çerezleri içerir. Analitik çerezler, anonim kullanım verileri toplayarak ziyaretçilerin web sitemizi nasıl kullandığını anlamamıza yardımcı olur. Tercih çerezleri, daha kişiselleştirilmiş bir deneyim sunmak için seçtiğiniz dil gibi ayarlarınızı ve tercihlerinizi hatırlar."
       },
       {
         "heading": "Üçüncü Taraf Çerezleri",
@@ -428,7 +432,7 @@
       },
       {
         "heading": "İletişim",
-        "content": "Çerez kullanımımız hakkında sorularınız varsa, lütfen info@mindorasystems.com adresinden veya web sitemizdeki iletişim formu aracılığıyla bizimle iletişime geçin."
+        "content": "Çerez kullanımımız hakkında sorularınız varsa, lütfen info@mindorasystems.com adresinden bizimle iletişime geçin."
       }
     ]
   },
