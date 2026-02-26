@@ -205,6 +205,17 @@
   }
 }
 
+@keyframes badge-dot-blink {
+  0%, 100% {
+    opacity: 1;
+    box-shadow: 0 0 6px rgba(145, 70, 255, 0.6), 0 0 12px rgba(145, 70, 255, 0.3);
+  }
+  50% {
+    opacity: 0.2;
+    box-shadow: 0 0 2px rgba(145, 70, 255, 0.1);
+  }
+}
+
 @keyframes badge-text-glow {
   0%, 100% {
     text-shadow: 0 0 4px rgba(145, 70, 255, 0);
