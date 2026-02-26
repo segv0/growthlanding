@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Audience Labs — Clip-Powered Growth for Kick & Twitch Streamers",
-    "description": "Your best stream moments, clipped and distributed across TikTok and Instagram Reels by our clipper network. You stream — we grow your audience."
+    "title": "Audience Labs — Growth Agency for Kick & Twitch Streamers",
+    "description": "We distribute your best stream clips across TikTok and Instagram Reels through our clipper network — growing your audience with zero effort."
   },
   "nav": {
     "links": [
@@ -10,22 +10,22 @@
       { "label": "About Us", "href": "#founders" },
       { "label": "FAQ", "href": "#faq" }
     ],
-    "bookACall": "Book a Free Call"
+    "bookACall": "Book a Call"
   },
   "hero": {
     "headingStart": "Grow Your Stream ",
     "headingAccent": "Without Lifting a Finger",
-    "description": "Your best stream moments — clipped, optimized, and posted across TikTok and Instagram Reels by a dedicated clipper network. You keep streaming. We handle the growth.",
-    "ctaPrimary": "Book a Free Call",
+    "description": "We distribute your best stream clips across TikTok and Instagram Reels through our clipper network — growing your audience on autopilot.",
+    "ctaPrimary": "Book a Call",
     "ctaSecondary": "See How It Works"
   },
   "trustBar": {
-    "heading": "Trusted by streamers across Kick and Twitch"
+    "heading": "Chosen by top brands around the world"
   },
   "impact": {
     "badge": "Our Promise",
-    "heading": "Our Commitment to You",
-    "description": "Real organic growth. No bots, no fake engagement — ever. You get full transparency, weekly performance reports, and a distribution strategy built around your stream.",
+    "heading": "What We Guarantee",
+    "description": "Data-driven clip distribution built on real organic growth — no bots, no fake engagement. We commit to full transparency, weekly performance reports, and a strategy tailored to your stream.",
     "stats": [
       { "value": "100%", "label": "Organic Growth", "emoji": "🌱" },
       { "value": "$0", "label": "Upfront Cost", "emoji": "💰" }
@@ -42,54 +42,54 @@
     "badge": "Services",
     "heading": "How We Grow Your Audience",
     "headingAccent": "How",
-    "subtitle": "From clipping to posting to reporting — we handle every step of turning your streams into audience growth.",
+    "subtitle": "End-to-end clip distribution and growth services built for streamers.",
     "items": [
       {
         "label": "AUTOMATED CLIPPING",
         "title": "Clip Distribution",
-        "description": "Our clipper network captures your best moments and pushes them across TikTok, Instagram Reels, and YouTube Shorts — so your highlights reach millions, not just your live viewers.",
+        "description": "Our clipper network captures your best stream moments and distributes them across TikTok, Instagram Reels, and YouTube Shorts for maximum reach.",
         "icon": "video"
       },
       {
         "label": "CROSS-PLATFORM",
         "title": "Campaign Management",
-        "description": "We plan, schedule, and run your clip campaigns across every platform — so each post lands with the right audience at the right time.",
+        "description": "We plan, schedule, and optimize your clip campaigns across platforms — so every post hits the right audience at the right time.",
         "icon": "share"
       },
       {
         "label": "REAL-TIME DATA",
         "title": "Growth Analytics",
-        "description": "See exactly which clips drive followers, which platforms perform best, and where your audience is growing — updated in real time.",
+        "description": "Track your audience growth, clip performance, and platform metrics in real time with detailed reports and actionable insights.",
         "icon": "chart"
       },
       {
         "label": "ALGORITHM-FIRST",
         "title": "Content Optimization",
-        "description": "Every clip is edited, captioned, and timed for maximum reach — built around what TikTok and Instagram algorithms actually reward.",
+        "description": "Every clip is edited, captioned, and timed using strategies optimized for TikTok and Instagram algorithms to maximize reach and engagement.",
         "icon": "sparkles"
       },
       {
         "label": "EVERYWHERE AT ONCE",
         "title": "Multi-Platform Reach",
-        "description": "One stream, every platform. Your clips go live simultaneously across TikTok, Instagram Reels, and YouTube Shorts from a single campaign.",
+        "description": "Distribute your content simultaneously across TikTok, Instagram Reels, and YouTube Shorts from a single campaign.",
         "icon": "globe"
       },
       {
         "label": "STAY AHEAD",
         "title": "Trend Detection",
-        "description": "Our team tracks trending sounds, formats, and hashtags in real time — so your clips ride the wave instead of chasing it.",
+        "description": "Our team monitors trending sounds, formats, and hashtags to ensure your clips ride the wave of what's popular.",
         "icon": "trending"
       },
       {
         "label": "GROW YOUR TRIBE",
         "title": "Community Building",
-        "description": "Consistent, high-quality clips keep your name in people's feeds — turning casual viewers into loyal followers across every platform.",
+        "description": "Build a loyal, engaged audience across platforms with consistent content that keeps viewers coming back.",
         "icon": "users"
       },
       {
         "label": "WEEKLY INSIGHTS",
         "title": "Performance Reports",
-        "description": "Every week you get a clear breakdown of clip performance, audience growth, and what to do next — no guesswork required.",
+        "description": "Receive detailed weekly reports on clip performance, audience growth, and platform metrics with actionable recommendations.",
         "icon": "file"
       }
     ]
@@ -103,19 +103,19 @@
       {
         "number": "01",
         "title": "You Stream",
-        "description": "Go live on Kick or Twitch like you always do. Focus on your content — that's the only job you have.",
+        "description": "Keep doing what you love on Kick or Twitch. Just focus on your content — we take care of the rest.",
         "icon": "video"
       },
       {
         "number": "02",
         "title": "We Clip & Distribute",
-        "description": "Our clippers catch your best moments, edit them for short-form, and post them across TikTok and Instagram Reels.",
+        "description": "Our clipper network identifies your best moments and distributes them across TikTok and Instagram Reels.",
         "icon": "scissors"
       },
       {
         "number": "03",
         "title": "Your Audience Grows",
-        "description": "New viewers discover you through clips and follow your stream. You grow on autopilot while doing what you already love.",
+        "description": "Watch your followers multiply across platforms while you keep streaming — growth on complete autopilot.",
         "icon": "trending-up"
       }
     ]
@@ -123,26 +123,26 @@
   "whyChoose": {
     "badge": "Our Edge",
     "heading": "Why Choose Audience Labs",
-    "subtitle": "Built for streamers who want real growth — not vanity metrics.",
+    "subtitle": "Built specifically for streamers who want real audience growth.",
     "items": [
       {
         "title": "Performance-Based Model",
-        "description": "Our pricing reflects real results. When your clips perform, we both win — that's how we keep ourselves accountable.",
+        "description": "We only win when you win. Our pricing is tied to real results — views, followers, and engagement growth.",
         "icon": "target"
       },
       {
         "title": "Zero Effort Required",
-        "description": "You stream. We clip, edit, caption, schedule, and post. The only thing you need to do is keep going live.",
+        "description": "Keep streaming as usual. Our clipper network handles everything from clipping to posting — you don't lift a finger.",
         "icon": "hand"
       },
       {
         "title": "Algorithm-Optimized Content",
-        "description": "Every clip is built for the feed — right format, right captions, right timing — based on what actually performs on TikTok and Instagram.",
+        "description": "Every clip is edited, captioned, and posted using strategies optimized for TikTok and Instagram algorithms.",
         "icon": "sparkles"
       },
       {
         "title": "Scalable Clipper Network",
-        "description": "More streams, more clips, more reach. Our network scales with you — so no highlight goes unclipped, no matter how often you go live.",
+        "description": "Our distributed network of clippers scales with your stream, ensuring no viral moment goes uncaptured.",
         "icon": "network"
       }
     ]
@@ -150,7 +150,7 @@
   "testimonials": {
     "badge": "Testimonials",
     "heading": "What Streamers Are Saying",
-    "subtitle": "Real stories from streamers who turned clips into audience growth.",
+    "subtitle": "Don't just take our word for it — hear from streamers who've grown with us.",
     "items": [
       {
         "quote": "Audience Labs completely changed my growth trajectory. I went from 200 to 2K average viewers in three months — all from clip traffic on TikTok.",
@@ -177,7 +177,7 @@
         "rating": 5.0
       },
       {
-        "quote": "A year of doing TikTok myself got me nowhere. Audience Labs got me 1M views in month one. Wish I'd started sooner.",
+        "quote": "I tried doing TikTok myself for a year with zero results. Audience Labs got me 1M views in my first month. Should have started way sooner.",
         "name": "Tyler Brooks",
         "title": "Twitch Partner, 3.2K avg viewers",
         "avatar": "TB",
@@ -271,44 +271,44 @@
   "faq": {
     "badge": "FAQ",
     "heading": "Frequently Asked Questions",
-    "subtitle": "Everything you need to know before getting started.",
+    "subtitle": "Everything you need to know about growing your stream with Audience Labs.",
     "items": [
       {
         "question": "Can I control what gets clipped and how accounts look?",
-        "answer": "Yes. During onboarding you set the rules — account style, which streams to clip, any content guidelines. We follow your direction exactly. If something doesn't feel right, let us know and we'll fix it immediately."
+        "answer": "Absolutely. During onboarding you tell us your preferences — whether accounts should look like fan pages, which streams or upcoming streams you want us to clip from, and any specific style guidelines. We handle everything based on your direction. If something goes up that you don't like, just reach out and we'll fix it right away."
       },
       {
         "question": "Do I need to give you access to my social media accounts?",
-        "answer": "Never. We create and manage dedicated clip accounts built around your channel. Your personal accounts stay 100% in your control — no passwords, no access needed. You approve the setup during onboarding and we handle the rest."
+        "answer": "No. We create dedicated clip accounts built around your channel and manage everything through those. Your personal social media accounts stay completely under your control — you never need to share a password or grant access. You approve the account setup during onboarding, and we handle the rest."
       },
       {
         "question": "Is there a minimum contract or can I cancel anytime?",
-        "answer": "No contracts, no lock-in. We work month to month and you can cancel anytime — zero fees. Our results keep you around, not paperwork."
+        "answer": "No long-term contracts. We work on a monthly basis and you can cancel at any time — no cancellation fees, no lock-in. We believe our results should keep you around, not a contract."
       },
       {
         "question": "How much does it cost?",
-        "answer": "It depends on your stream volume, target platforms, and clips per week. We have flexible plans for everyone from new streamers to full-scale operations. Book a free call and we'll recommend a plan that fits."
+        "answer": "Pricing depends on your stream volume, number of target platforms, and how many clips per week you want. We offer flexible plans starting from streamers just getting started to full-scale operations. Book a free discovery call and we'll recommend a plan that fits your goals and budget."
       },
       {
         "question": "I'm a small streamer — is this worth it for me?",
-        "answer": "Yes — and you might see the biggest growth. Short-form clips introduce you to audiences who'd never find your stream otherwise. Many of our best success stories started with under 50 average viewers."
+        "answer": "Absolutely. Small streamers often see the biggest percentage growth because short-form clips introduce you to audiences who'd never find your stream otherwise. You don't need a huge following to start — many of our best success stories began with under 50 average viewers."
       },
       {
         "question": "Will the clips actually feel like my brand?",
-        "answer": "That's non-negotiable for us. We study your stream style, humor, and audience during onboarding — then match you with clippers who genuinely get your content. If a clip ever feels off-brand, flag it and we adjust instantly."
+        "answer": "That's a priority for us. During onboarding we study your stream style, humor, and audience vibe. Our clippers are matched to creators whose content they genuinely understand. If a clip ever feels off-brand, flag it and we'll adjust — your voice is the one that matters."
       },
       {
         "question": "What if my growth doesn't improve?",
-        "answer": "You'll always see exactly what's happening through transparent analytics. If results aren't where they should be, we adjust — different clip styles, posting times, or platforms. Most streamers see measurable growth within 2-4 weeks."
+        "answer": "We share transparent analytics so you always see exactly what's working. If results aren't where they should be, we adjust strategy — different clip styles, posting times, or platforms. Most streamers see measurable growth within the first 2-4 weeks."
       }
     ]
   },
   "cta": {
     "badge": "Let's Grow",
-    "heading": "Your Audience Won't Grow Itself",
-    "description": "Every stream without a clip strategy is growth left on the table. Book a free discovery call and see exactly how we can grow your channel.",
+    "heading": "Ready to Grow Your Stream?",
+    "description": "Be among the first to tap into clip-powered growth before everyone else catches on. Book a free discovery call and get in on the ground floor.",
     "stats": [],
-    "button": "Book a Free Call"
+    "button": "Book a Call"
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -437,7 +437,7 @@
     ]
   },
   "footer": {
-    "description": "Turning stream highlights into audience growth through clip distribution across TikTok and Instagram Reels.",
+    "description": "Growing streamer audiences through scalable clip distribution across TikTok and Instagram Reels.",
     "contactEmail": "info@mindorasystems.com",
     "columns": [
       {

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "Audience Labs — Kick & Twitch Yayıncıları İçin Klip Destekli Büyüme",
-    "description": "En iyi yayın anlarınız, clipper ağımız tarafından TikTok ve Instagram Reels'de klipleniyor ve dağıtılıyor. Siz yayın yapın — biz kitlenizi büyütelim."
+    "title": "Audience Labs — Kick & Twitch Yayıncıları İçin Büyüme Ajansı",
+    "description": "En iyi yayın kliplerinizi clipper ağımız aracılığıyla TikTok ve Instagram Reels'de dağıtıyoruz — hiçbir çaba harcamadan kitlenizi büyütüyoruz."
   },
   "nav": {
     "links": [
@@ -10,22 +10,22 @@
       { "label": "Hakkımızda", "href": "#founders" },
       { "label": "SSS", "href": "#faq" }
     ],
-    "bookACall": "Ücretsiz Görüşme"
+    "bookACall": "Görüşme Ayarla"
   },
   "hero": {
     "headingStart": "Yayınınızı Büyütün ",
     "headingAccent": "Parmağınızı Bile Kıpırdatmadan",
-    "description": "En iyi yayın anlarınız — özel clipper ağımız tarafından klipleniyor, optimize ediliyor ve TikTok ile Instagram Reels'de paylaşılıyor. Siz yayına devam edin. Büyümeyi biz hallederiz.",
-    "ctaPrimary": "Ücretsiz Görüşme",
+    "description": "En iyi yayın kliplerinizi clipper ağımız aracılığıyla TikTok ve Instagram Reels'de dağıtıyoruz — kitlenizi otomatik pilotta büyütüyoruz.",
+    "ctaPrimary": "Görüşme Ayarla",
     "ctaSecondary": "Nasıl Çalışır?"
   },
   "trustBar": {
-    "heading": "Kick ve Twitch'teki yayıncılar tarafından tercih ediliyor"
+    "heading": "Dünya genelinde önde gelen markalar tarafından tercih ediliyor"
   },
   "impact": {
     "badge": "Sözümüz",
-    "heading": "Size Taahhüdümüz",
-    "description": "Gerçek organik büyüme. Bot yok, sahte etkileşim yok — asla. Tam şeffaflık, haftalık performans raporları ve yayınınıza özel dağıtım stratejisi alırsınız.",
+    "heading": "Neler Garanti Ediyoruz",
+    "description": "Gerçek organik büyüme üzerine kurulu veriye dayalı klip dağıtımı — bot yok, sahte etkileşim yok. Tam şeffaflık, haftalık performans raporları ve yayınınıza özel strateji taahhüt ediyoruz.",
     "stats": [
       { "value": "100%", "label": "Organik Büyüme", "emoji": "🌱" },
       { "value": "$0", "label": "Ön Ödeme", "emoji": "💰" }
@@ -42,54 +42,54 @@
     "badge": "Hizmetler",
     "heading": "Kitlenizi Nasıl Büyütüyoruz",
     "headingAccent": "Nasıl",
-    "subtitle": "Kliplemeden paylaşıma, raporlamaya kadar — yayınlarınızı kitle büyümesine dönüştürmenin her adımını biz yönetiyoruz.",
+    "subtitle": "Yayıncılar için uçtan uca klip dağıtım ve büyüme hizmetleri.",
     "items": [
       {
         "label": "OTOMATİK KLİPLEME",
         "title": "Klip Dağıtımı",
-        "description": "Clipper ağımız en iyi anlarınızı yakalar ve TikTok, Instagram Reels ve YouTube Shorts'a taşır — öne çıkan anlarınız sadece canlı izleyicilerinize değil, milyonlara ulaşır.",
+        "description": "Clipper ağımız en iyi yayın anlarınızı yakalar ve maksimum erişim için TikTok, Instagram Reels ve YouTube Shorts'ta dağıtır.",
         "icon": "video"
       },
       {
         "label": "ÇAPRAZ PLATFORM",
         "title": "Kampanya Yönetimi",
-        "description": "Klip kampanyalarınızı tüm platformlarda planlıyor, zamanlıyor ve yürütüyoruz — her gönderi doğru kitleye doğru zamanda ulaşsın diye.",
+        "description": "Klip kampanyalarınızı platformlar arasında planlıyor, zamanlıyor ve optimize ediyoruz — böylece her gönderi doğru kitleye doğru zamanda ulaşır.",
         "icon": "share"
       },
       {
         "label": "GERÇEK ZAMANLI VERİ",
         "title": "Büyüme Analitiği",
-        "description": "Hangi kliplerin takipçi getirdiğini, hangi platformların en iyi performans gösterdiğini ve kitlenizin nerede büyüdüğünü tam olarak görün — gerçek zamanlı güncelleniyor.",
+        "description": "Kitle büyümenizi, klip performansınızı ve platform metriklerinizi ayrıntılı raporlar ve uygulanabilir içgörülerle gerçek zamanlı takip edin.",
         "icon": "chart"
       },
       {
         "label": "ALGORİTMA ODAKLI",
         "title": "İçerik Optimizasyonu",
-        "description": "Her klip maksimum erişim için düzenlenir, altyazılanır ve zamanlanır — TikTok ve Instagram algoritmalarının gerçekte ödüllendirdiği şeylere göre.",
+        "description": "Her klip, erişimi ve etkileşimi en üst düzeye çıkarmak için TikTok ve Instagram algoritmalarına optimize edilmiş stratejilerle düzenlenir, altyazılanır ve zamanlanır.",
         "icon": "sparkles"
       },
       {
         "label": "HER YERDE AYNI ANDA",
         "title": "Çoklu Platform Erişimi",
-        "description": "Bir yayın, her platform. Klipleriniz tek bir kampanyadan TikTok, Instagram Reels ve YouTube Shorts'ta eşzamanlı yayınlanır.",
+        "description": "İçeriklerinizi tek bir kampanyadan TikTok, Instagram Reels ve YouTube Shorts'ta eşzamanlı olarak dağıtın.",
         "icon": "globe"
       },
       {
         "label": "TRENDLERE HAZIR",
         "title": "Trend Tespiti",
-        "description": "Ekibimiz trend sesleri, formatları ve hashtagleri gerçek zamanlı takip eder — klipleriniz trendi kovalamasın, dalgayı yakalasın.",
+        "description": "Ekibimiz trend sesleri, formatları ve hashtagleri takip ederek kliplerinizin popüler olanın dalgasını yakalamasını sağlar.",
         "icon": "trending"
       },
       {
         "label": "KİTLENİZİ BÜYÜTÜN",
         "title": "Topluluk Oluşturma",
-        "description": "Tutarlı, kaliteli klipler adınızı insanların akışında tutar — sıradan izleyicileri her platformda sadık takipçilere dönüştürür.",
+        "description": "İzleyicileri geri getiren tutarlı içerikle platformlar arasında sadık, etkileşimli bir kitle oluşturun.",
         "icon": "users"
       },
       {
         "label": "HAFTALIK RAPORLAR",
         "title": "Performans Raporları",
-        "description": "Her hafta klip performansı, kitle büyümesi ve sonraki adımlar hakkında net bir rapor alırsınız — tahmine gerek yok.",
+        "description": "Klip performansı, kitle büyümesi ve platform metrikleri hakkında uygulanabilir önerilerle ayrıntılı haftalık raporlar alın.",
         "icon": "file"
       }
     ]
@@ -103,19 +103,19 @@
       {
         "number": "01",
         "title": "Yayın Yapın",
-        "description": "Kick veya Twitch'te her zamanki gibi yayına geçin. İçeriğinize odaklanın — tek işiniz bu.",
+        "description": "Kick veya Twitch'te sevdiğiniz işi yapmaya devam edin. Sadece içeriğinize odaklanın — gerisini biz hallederiz.",
         "icon": "video"
       },
       {
         "number": "02",
         "title": "Klipliyoruz & Dağıtıyoruz",
-        "description": "Clipper'larımız en iyi anlarınızı yakalar, kısa form için düzenler ve TikTok ile Instagram Reels'de paylaşır.",
+        "description": "Clipper ağımız en iyi anlarınızı tespit eder ve TikTok ile Instagram Reels'e dağıtır.",
         "icon": "scissors"
       },
       {
         "number": "03",
         "title": "Kitleniz Büyüyor",
-        "description": "Yeni izleyiciler sizi klipler aracılığıyla keşfeder ve yayınlarınızı takip eder. Sevdiğiniz işi yaparken otomatik pilotta büyürsünüz.",
+        "description": "Siz yayın yapmaya devam ederken takipçilerinizin platformlar genelinde katlanarak arttığını izleyin — tamamen otomatik büyüme.",
         "icon": "trending-up"
       }
     ]
@@ -123,26 +123,26 @@
   "whyChoose": {
     "badge": "Farkımız",
     "heading": "Neden Audience Labs?",
-    "subtitle": "Gerçek büyüme isteyen yayıncılar için tasarlandı — boş metrikler için değil.",
+    "subtitle": "Gerçek kitle büyümesi isteyen yayıncılar için özel olarak tasarlandı.",
     "items": [
       {
         "title": "Performansa Dayalı Model",
-        "description": "Fiyatlandırmamız gerçek sonuçları yansıtır. Klipleriniz performans gösterdiğinde ikimiz de kazanırız — kendimizi böyle sorumlu tutuyoruz.",
+        "description": "Biz ancak siz kazandığınızda kazanırız. Fiyatlandırmamız gerçek sonuçlara bağlıdır — görüntüleme, takipçi ve etkileşim büyümesi.",
         "icon": "target"
       },
       {
         "title": "Sıfır Çaba Gerektirir",
-        "description": "Siz yayın yapın. Biz klipliyoruz, düzenliyoruz, altyazı ekliyoruz, zamanlıyoruz ve paylaşıyoruz. Tek yapmanız gereken canlı yayına devam etmek.",
+        "description": "Her zamanki gibi yayın yapmaya devam edin. Clipper ağımız klip çıkarmadan paylaşıma kadar her şeyi halleder — parmağınızı bile kıpırdatmazsınız.",
         "icon": "hand"
       },
       {
         "title": "Algoritma Optimizasyonlu İçerik",
-        "description": "Her klip akış için tasarlanır — doğru format, doğru altyazı, doğru zamanlama — TikTok ve Instagram'da gerçekte neyin işe yaradığına göre.",
+        "description": "Her klip, TikTok ve Instagram algoritmaları için optimize edilmiş stratejilerle düzenlenir, altyazılı hale getirilir ve paylaşılır.",
         "icon": "sparkles"
       },
       {
         "title": "Ölçeklenebilir Clipper Ağı",
-        "description": "Daha fazla yayın, daha fazla klip, daha fazla erişim. Ağımız sizinle birlikte ölçeklenir — ne kadar sık yayın yaparsanız yapın, hiçbir öne çıkan an kaçırılmaz.",
+        "description": "Dağıtılmış clipper ağımız yayınınızla birlikte ölçeklenir ve hiçbir viral anın kaçırılmamasını sağlar.",
         "icon": "network"
       }
     ]
@@ -150,7 +150,7 @@
   "testimonials": {
     "badge": "Referanslar",
     "heading": "Yayıncılar Ne Diyor?",
-    "subtitle": "Kliplerle kitle büyüten yayıncılardan gerçek hikayeler.",
+    "subtitle": "Sadece bize güvenmeyin — bizimle büyüyen yayıncılardan dinleyin.",
     "items": [
       {
         "quote": "Audience Labs büyüme yolculuğumu tamamen değiştirdi. Üç ayda ortalama 200 izleyiciden 2K'ya çıktım — hepsi TikTok'taki klip trafiğinden.",
@@ -177,7 +177,7 @@
         "rating": 5.0
       },
       {
-        "quote": "Bir yıl boyunca TikTok'u kendim denedim, hiçbir sonuç alamadım. Audience Labs ilk ayda 1M görüntüleme getirdi. Keşke daha önce başlasaydım.",
+        "quote": "Bir yıl boyunca TikTok'u kendim denedim, sıfır sonuç. Audience Labs ilk ayımda 1M görüntüleme aldırdı. Çok daha önce başlamalıydım.",
         "name": "Tyler Brooks",
         "title": "Twitch Partner, 3.2K ort. izleyici",
         "avatar": "TB",
@@ -271,44 +271,44 @@
   "faq": {
     "badge": "SSS",
     "heading": "Sıkça Sorulan Sorular",
-    "subtitle": "Başlamadan önce bilmeniz gereken her şey.",
+    "subtitle": "Audience Labs ile yayınınızı büyütmek hakkında bilmeniz gereken her şey.",
     "items": [
       {
         "question": "Nelerin kliplendiğini ve hesapların nasıl göründüğünü kontrol edebilir miyim?",
-        "answer": "Evet. Onboarding sürecinde kuralları siz belirliyorsunuz — hesap tarzı, hangi yayınlardan klip çıkılacağı, içerik kurallarınız. Yönlendirmenizi birebir takip ediyoruz. Bir şey doğru hissetmezse bize bildirin, anında düzeltiriz."
+        "answer": "Kesinlikle. Onboarding sürecinde tercihlerinizi belirliyorsunuz — hesapların fan sayfası gibi mi görünmesini istediğinizi, hangi yayınlardan veya yaklaşan yayınlardan klip çıkarmamız gerektiğini ve özel stil kurallarınızı. Her şeyi sizin yönlendirmenize göre yönetiyoruz. Hoşunuza gitmeyen bir şey paylaşılırsa bize ulaşın, hemen düzeltelim."
       },
       {
         "question": "Sosyal medya hesaplarıma erişim vermem gerekiyor mu?",
-        "answer": "Asla. Kanalınıza özel klip hesapları oluşturup yönetiyoruz. Kişisel hesaplarınız %100 sizin kontrolünüzde kalır — şifre paylaşmak ya da erişim vermek yok. Onboarding'de kurulumu onaylarsınız, gerisini biz hallederiz."
+        "answer": "Hayır. Kanalınız için özel klip hesapları oluşturuyor ve tüm dağıtımı bu hesaplar üzerinden yönetiyoruz. Kişisel sosyal medya hesaplarınız tamamen sizin kontrolünüzde kalır — şifre paylaşmanıza veya erişim vermenize gerek yok. Onboarding sürecinde hesap yapısını onaylarsınız, gerisini biz hallederiz."
       },
       {
         "question": "Minimum sözleşme süresi var mı, istediğim zaman iptal edebilir miyim?",
-        "answer": "Sözleşme yok, bağlayıcılık yok. Aylık bazda çalışıyoruz ve istediğiniz zaman iptal edebilirsiniz — sıfır ücret. Sizi tutan kağıt işi değil, sonuçlarımız olsun."
+        "answer": "Uzun vadeli sözleşme yok. Aylık bazda çalışıyoruz ve istediğiniz zaman iptal edebilirsiniz — iptal ücreti yok, bağlayıcılık yok. Sizi tutması gereken bir sözleşme değil, sonuçlarımız olmalı."
       },
       {
         "question": "Fiyatlandırma nasıl?",
-        "answer": "Yayın hacminize, hedef platformlara ve haftalık klip sayısına göre değişir. Yeni başlayan yayıncılardan tam ölçekli operasyonlara kadar esnek planlarımız var. Ücretsiz görüşme ayarlayın, size uygun planı önerelim."
+        "answer": "Fiyatlandırma yayın hacminize, hedef platform sayısına ve haftalık istediğiniz klip sayısına göre değişir. Yeni başlayan yayıncılardan tam ölçekli operasyonlara kadar esnek planlar sunuyoruz. Ücretsiz keşif görüşmesi ayarlayın, hedeflerinize ve bütçenize uygun bir plan önerelim."
       },
       {
         "question": "Küçük bir yayıncıyım — bu benim için değer mi?",
-        "answer": "Evet — üstelik en büyük büyümeyi siz görebilirsiniz. Kısa form klipler, yayınınızı asla bulamayacak kitlelere sizi tanıtır. En iyi başarı hikayelerimizin çoğu ortalama 50'nin altında izleyiciyle başladı."
+        "answer": "Kesinlikle. Küçük yayıncılar genellikle en büyük yüzdelik büyümeyi görür, çünkü kısa form klipler sizi yayınınızı asla bulamayacak kitlelere tanıtır. Başlamak için büyük bir takipçi kitlesine ihtiyacınız yok — en iyi başarı hikayelerimizin çoğu ortalama 50'nin altında izleyiciyle başladı."
       },
       {
         "question": "Klipler gerçekten benim tarzımı yansıtacak mı?",
-        "answer": "Bu bizim için tartışılmaz. Onboarding sürecinde yayın tarzınızı, mizahınızı ve kitlenizi inceliyoruz — sonra içeriğinizi gerçekten anlayan clipper'larla eşleştiriyoruz. Bir klip markanıza uymuyorsa bildirin, anında ayarlarız."
+        "answer": "Bu bizim için öncelik. Onboarding sürecinde yayın tarzınızı, mizahınızı ve kitle enerjinizi inceliyoruz. Clipper'larımız, içeriklerini gerçekten anlayan yaratıcılarla eşleştirilir. Bir klip markanıza uymuyorsa bildirin, hemen ayarlarız — önemli olan sizin sesiniz."
       },
       {
         "question": "Ya büyümem artmazsa?",
-        "answer": "Şeffaf analizler sayesinde neler olduğunu her zaman görebilirsiniz. Sonuçlar olması gereken yerde değilse strateji değiştiriyoruz — farklı klip stilleri, paylaşım saatleri veya platformlar. Çoğu yayıncı ilk 2-4 hafta içinde ölçülebilir büyüme görüyor."
+        "answer": "Şeffaf analizler paylaşıyoruz, böylece neyin işe yaradığını her zaman görebilirsiniz. Sonuçlar olması gereken yerde değilse strateji değiştiriyoruz — farklı klip stilleri, paylaşım saatleri veya platformlar. Çoğu yayıncı ilk 2-4 hafta içinde ölçülebilir büyüme görüyor."
       }
     ]
   },
   "cta": {
     "badge": "Hadi Büyüyelim",
-    "heading": "Kitleniz Kendiliğinden Büyümeyecek",
-    "description": "Klip stratejisi olmadan yaptığınız her yayın, kaçırılan büyüme demek. Ücretsiz keşif görüşmesi ayarlayın ve kanalınızı nasıl büyütebileceğimizi görün.",
+    "heading": "Yayınınızı Büyütmeye Hazır mısınız?",
+    "description": "Bu keşfedilmemiş fırsatı erkenden yakalayanlardan biri olun. Herkes fark etmeden klip destekli büyümenin gücünden yararlanın. Ücretsiz keşif görüşmesi ayarlayın ve bu işe zemin kattan başlayın.",
     "stats": [],
-    "button": "Ücretsiz Görüşme"
+    "button": "Görüşme Ayarla"
   },
   "privacy": {
     "title": "Gizlilik Politikası",
@@ -437,7 +437,7 @@
     ]
   },
   "footer": {
-    "description": "TikTok ve Instagram Reels'de klip dağıtımı ile yayın öne çıkanlarını kitle büyümesine dönüştürüyoruz.",
+    "description": "TikTok ve Instagram Reels'de ölçeklenebilir klip dağıtımı ile yayıncı kitlelerini büyütüyoruz.",
     "contactEmail": "info@mindorasystems.com",
     "columns": [
       {
