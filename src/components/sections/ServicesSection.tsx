@@ -10,7 +10,6 @@ import {
   TrendingUp,
   Users,
   FileText,
-  Layers,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import Container from "@/components/ui/Container";
@@ -42,7 +41,6 @@ export default function ServicesSection({ dict }: { dict: ServicesDict }) {
           heading={dict.heading}
           headingAccent={dict.headingAccent}
           subtitle={dict.subtitle}
-          icon={Layers}
         />
 
         <FadeInWhenVisible direction="up" delay={0.1}>

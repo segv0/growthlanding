@@ -1,7 +1,6 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Shield } from "lucide-react";
 import Container from "@/components/ui/Container";
 import SectionHeading from "@/components/ui/SectionHeading";
 import StaggerChildren, { staggerItemVariants } from "@/components/animations/StaggerChildren";
@@ -17,7 +16,6 @@ export default function WhyChooseUsSection({ dict }: { dict: WhyChooseDict }) {
           badge={dict.badge}
           heading={dict.heading}
           subtitle={dict.subtitle}
-          icon={Shield}
         />
 
         <StaggerChildren className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">

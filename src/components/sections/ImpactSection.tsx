@@ -1,6 +1,6 @@
 "use client";
 
-import { TrendingUp, Twitch } from "lucide-react";
+import { Twitch, TrendingUp } from "lucide-react";
 import Container from "@/components/ui/Container";
 import SectionBadge from "@/components/ui/SectionBadge";
 import FadeInWhenVisible from "@/components/animations/FadeInWhenVisible";
@@ -36,7 +36,7 @@ export default function ImpactSection({ dict }: { dict: ImpactDict }) {
           {/* Text Column */}
           <FadeInWhenVisible direction="right">
             <div>
-              <SectionBadge icon={TrendingUp}>{dict.badge}</SectionBadge>
+              <SectionBadge>{dict.badge}</SectionBadge>
               <h2 className="mt-4 text-3xl md:text-4xl font-bold text-gray-100">
                 {dict.heading}
               </h2>

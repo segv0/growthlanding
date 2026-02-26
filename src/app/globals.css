@@ -196,6 +196,24 @@
   98% { transform: translate(1px, 0); opacity: 0.9; }
 }
 
+@keyframes badge-dot-pulse {
+  0%, 100% {
+    box-shadow: 0 0 4px rgba(145, 70, 255, 0.4), 0 0 8px rgba(145, 70, 255, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 8px rgba(145, 70, 255, 0.8), 0 0 16px rgba(145, 70, 255, 0.4);
+  }
+}
+
+@keyframes badge-text-glow {
+  0%, 100% {
+    text-shadow: 0 0 4px rgba(145, 70, 255, 0);
+  }
+  50% {
+    text-shadow: 0 0 8px rgba(145, 70, 255, 0.4), 0 0 16px rgba(145, 70, 255, 0.15);
+  }
+}
+
 @keyframes engagement-bubble-float {
   0%   { opacity: 0; transform: translateY(0) translateX(0) scale(0.6); }
   10%  { opacity: 0.9; transform: translateY(-10px) translateX(2px) scale(1); }

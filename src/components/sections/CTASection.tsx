@@ -1,7 +1,6 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Rocket } from "lucide-react";
 import Container from "@/components/ui/Container";
 import Button from "@/components/ui/Button";
 import SectionBadge from "@/components/ui/SectionBadge";
@@ -27,7 +26,7 @@ export default function CTASection({ dict }: { dict: CTADict }) {
             {/* Inner card */}
             <div className="rounded-3xl bg-[#1F1F23] px-6 py-10 sm:px-10 sm:py-12 md:px-16 md:py-16 text-center">
               <div className="flex justify-center mb-6">
-                <SectionBadge icon={Rocket}>{dict.badge}</SectionBadge>
+                <SectionBadge>{dict.badge}</SectionBadge>
               </div>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white">

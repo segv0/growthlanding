@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Plus, Minus, HelpCircle } from "lucide-react";
+import { Plus, Minus } from "lucide-react";
 import Container from "@/components/ui/Container";
 import SectionHeading from "@/components/ui/SectionHeading";
 import FadeInWhenVisible from "@/components/animations/FadeInWhenVisible";
@@ -18,7 +18,6 @@ export default function FAQSection({ dict }: { dict: FAQDict }) {
           badge={dict.badge}
           heading={dict.heading}
           subtitle={dict.subtitle}
-          icon={HelpCircle}
         />
 
         <FadeInWhenVisible>

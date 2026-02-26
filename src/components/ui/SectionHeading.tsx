@@ -1,4 +1,3 @@
-import type { LucideIcon } from "lucide-react";
 import SectionBadge from "./SectionBadge";
 
 interface SectionHeadingProps {
@@ -7,10 +6,9 @@ interface SectionHeadingProps {
   headingAccent?: string;
   subtitle?: string;
   centered?: boolean;
-  icon?: LucideIcon;
 }
 
-export default function SectionHeading({ badge, heading, headingAccent, subtitle, centered = true, icon }: SectionHeadingProps) {
+export default function SectionHeading({ badge, heading, headingAccent, subtitle, centered = true }: SectionHeadingProps) {
   const renderedHeading = headingAccent
     ? (() => {
         const idx = heading.indexOf(headingAccent);
@@ -29,7 +27,7 @@ export default function SectionHeading({ badge, heading, headingAccent, subtitle
 
   return (
     <div className={`${centered ? "text-center" : ""} mb-12`}>
-      <SectionBadge icon={icon}>{badge}</SectionBadge>
+      <SectionBadge>{badge}</SectionBadge>
       <h2 className="mt-4 text-3xl md:text-4xl font-bold text-gray-100">{renderedHeading}</h2>
       {subtitle && (
         <p className="mt-4 text-lg text-gray-400 max-w-2xl mx-auto">{subtitle}</p>

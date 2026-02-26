@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Star, MessageSquare } from "lucide-react";
+import { Star } from "lucide-react";
 import Container from "@/components/ui/Container";
 import SectionHeading from "@/components/ui/SectionHeading";
 import type { TestimonialsDict } from "@/types";
@@ -116,7 +116,6 @@ export default function TestimonialsSection({ dict }: { dict: TestimonialsDict }
           badge={dict.badge}
           heading={dict.heading}
           subtitle={dict.subtitle}
-          icon={MessageSquare}
         />
       </Container>
 

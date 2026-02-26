@@ -1,7 +1,6 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Users } from "lucide-react";
 import Container from "@/components/ui/Container";
 import SectionBadge from "@/components/ui/SectionBadge";
 import FadeInWhenVisible from "@/components/animations/FadeInWhenVisible";
@@ -117,7 +116,7 @@ export default function AboutSection({ dict }: { dict: AboutMeDict }) {
       <Container className="relative z-10">
         {/* Section badge */}
         <div className="text-center mb-12">
-          <SectionBadge icon={Users}>{dict.badge}</SectionBadge>
+          <SectionBadge>{dict.badge}</SectionBadge>
         </div>
 
         {/* Founders grid */}
