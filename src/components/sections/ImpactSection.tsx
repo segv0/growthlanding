@@ -28,84 +28,31 @@ function KickIcon() {
   );
 }
 
-function DecorativeBlock({
+function FloatingEmoji({
+  emoji,
   size,
-  depthRatio = 0.4,
-  rotation,
   className,
   animationDuration,
   animationDelay = 0,
 }: {
+  emoji: string;
   size: number;
-  depthRatio?: number;
-  rotation: string;
   className: string;
   animationDuration: number;
   animationDelay?: number;
 }) {
-  const depth = size * depthRatio;
-  const radius = size * 0.3;
-
   return (
-    <div
-      className={`absolute ${className}`}
-      style={{ transform: rotation }}
-    >
+    <div className={`absolute ${className}`}>
       <div
         className="animate-[float_ease-in-out_infinite]"
         style={{
           animationDuration: `${animationDuration}s`,
           animationDelay: `${animationDelay}s`,
-          filter: "drop-shadow(4px 6px 12px rgba(155, 168, 184, 0.3))",
+          fontSize: size,
+          lineHeight: 1,
         }}
       >
-        <div
-          style={{
-            width: size,
-            height: size,
-            transformStyle: "preserve-3d",
-            position: "relative",
-          }}
-        >
-          {/* Front face */}
-          <div
-            style={{
-              position: "absolute",
-              width: size,
-              height: size,
-              borderRadius: radius,
-              background: "#9BA8B8",
-              transform: `translateZ(${depth / 2}px)`,
-              backfaceVisibility: "hidden",
-            }}
-          />
-          {/* Top face */}
-          <div
-            style={{
-              position: "absolute",
-              width: size,
-              height: depth,
-              borderRadius: `${radius}px ${radius}px 0 0`,
-              background: "#B0BEC5",
-              transform: `translateY(-${depth / 2}px) translateZ(0px) rotateX(90deg)`,
-              transformOrigin: "bottom center",
-              backfaceVisibility: "hidden",
-            }}
-          />
-          {/* Right face */}
-          <div
-            style={{
-              position: "absolute",
-              width: depth,
-              height: size,
-              borderRadius: `0 ${radius}px ${radius}px 0`,
-              background: "#7A8A9A",
-              transform: `translateX(${size - depth / 2}px) rotateY(90deg)`,
-              transformOrigin: "left center",
-              backfaceVisibility: "hidden",
-            }}
-          />
-        </div>
+        {emoji}
       </div>
     </div>
   );
@@ -148,38 +95,38 @@ export default function ImpactSection({ dict }: { dict: ImpactDict }) {
           {/* Dashboard Column */}
           <FadeInWhenVisible direction="left" delay={0.2}>
             <div className="relative" style={{ perspective: "1200px" }}>
-              {/* Decorative 3D blocks around dashboard */}
-              <DecorativeBlock
-                className="-top-6 -right-4 z-10"
-                rotation="rotateY(20deg) rotateX(-10deg) rotateZ(-15deg)"
-                size={48}
+              {/* Floating emojis around dashboard */}
+              <FloatingEmoji
+                emoji="🎬"
+                className="-top-6 -right-20 z-10"
+                size={36}
                 animationDuration={3}
               />
-              <DecorativeBlock
+              <FloatingEmoji
+                emoji="🚀"
                 className="-top-5 left-4 z-10"
-                rotation="rotateY(-15deg) rotateX(-12deg) rotateZ(8deg)"
-                size={36}
+                size={28}
                 animationDuration={3.5}
                 animationDelay={0.4}
               />
-              <DecorativeBlock
-                className="top-1/2 -right-8 z-10"
-                rotation="rotateY(25deg) rotateX(5deg) rotateZ(-5deg)"
-                size={42}
+              <FloatingEmoji
+                emoji="🎮"
+                className="top-1/2 -right-24 z-10"
+                size={32}
                 animationDuration={2.8}
                 animationDelay={0.8}
               />
-              <DecorativeBlock
-                className="-bottom-5 right-8 z-10"
-                rotation="rotateY(18deg) rotateX(12deg) rotateZ(10deg)"
-                size={32}
+              <FloatingEmoji
+                emoji="📈"
+                className="-bottom-5 -right-12 z-10"
+                size={26}
                 animationDuration={3.2}
                 animationDelay={1.2}
               />
-              <DecorativeBlock
+              <FloatingEmoji
+                emoji="🔥"
                 className="top-1/3 -left-7 z-10"
-                rotation="rotateY(-20deg) rotateX(8deg) rotateZ(-12deg)"
-                size={55}
+                size={34}
                 animationDuration={3.4}
                 animationDelay={0.6}
               />
